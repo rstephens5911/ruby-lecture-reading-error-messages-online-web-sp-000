@@ -7,4 +7,4 @@ def a_division_by_zero
   else
      return false
    end
-  end
+ end
