@@ -3,4 +3,4 @@ def syntax_error_lab
   return x
 end
 
-syntax_error_lab 
+syntax_error_lab
